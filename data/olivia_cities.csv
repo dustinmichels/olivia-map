@@ -1,4 +1,4 @@
-place,name,adm1name,adm0name,biked?,date
+place,name,adm1name,adm0name,biked,date
 West Highland Way,Glasgow,Glasgow,United Kingdom,False,9/1/2016
 ,Milngavie ,Glasgow,United Kingdom,False,9/7/2016
 ,Rowardennan,Glasgow,United Kingdom,False,9/8/2016
@@ -38,7 +38,7 @@ Parque Natural da Arrábida,Sesimbra,,Portugal,False,2/20/2020
 ,Northfield,Minnesota,United States of America,,5/14/2022
 ,St. Paul,Minnesota,United States of America,True,5/15/2022
 ,Rochester,New York,United States of America,True,6/25/2022
-,Albany,New York,,,6/26/2022
+,Albany,New York,United States of America,False,6/26/2022
 ,Pittsfield,Massachusetts,United States of America,,7/27/2022
 ,Morristown,New Jersey,United States of America,True,10/22/2022
 ,Boston,Massachusetts,United States of America,False,
