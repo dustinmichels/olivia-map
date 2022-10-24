@@ -1,8 +1,16 @@
-# Map
+# Olivia Maps
 
-## Get Natural Earth Data
+GIS adventures
 
-Some GIS data is downloaded from [natural earth](http://www.naturalearthdata.com/). To get the data, run the following command:
+## Setup
+
+Setup conda environment:
+
+```sh
+conda env create -f environment.yml
+```
+
+Get GIS data from [natural earth](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/). To get the data, run the following command:
 
 ```sh
 ./get_natural_earth_data.sh
