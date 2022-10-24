@@ -1,0 +1,47 @@
+place,name,adm1name,adm0name,biked?,date
+West Highland Way,Glasgow,Glasgow,United Kingdom,False,9/1/2016
+,Milngavie ,Glasgow,United Kingdom,False,9/7/2016
+,Rowardennan,Glasgow,United Kingdom,False,9/8/2016
+,Utrecht,Utrecht,Netherlands,False,12/2/2016
+,Denver,Colorado,United States of America,False,5/31/2019
+,Granby,Colorado,United States of America,False,5/31/2019
+,Reno,Nevada,United States of America,False,6/1/2019
+,San Francisco,California,United States of America,True,6/1/2019
+,Oakland,California,United States of America,False,6/3/2019
+,Klamath Falls,Oregon,United States of America,True,6/4/2019
+Jackson F Kimball State Park,Chiloquin,Oregon,United States of America,False,6/4/2019
+Crater Lake National Park,Crater Lake,Oregon,United States of America,False,6/5/2019
+,Portland,Oregon,United States of America,False,6/6/2019
+,Amherst,Massachusetts,United States of America,True,8/10/2019
+,Northhampton,Massachusetts,United States of America,False,8/10/2019
+Lithia Springs Reservoir,South Hadley,Massachusetts,United States of America,False,8/11/2019
+,Riga,Riga,Latvia,False,8/13/2019
+,Cēsis,,Latvia,False,8/15/2019
+Gauja National Park,Līgatne,,Latvia,False,8/15/2019
+,Tartu,Tartu,Estonia,False,8/16/2019
+,Tallinn,Harju,Estonia,False,8/16/2019
+,Helsinki,,Finland,True,8/18/2019
+,Visby,Gotland,Sweden,True,8/19/2019
+,Stockholm,Stockholm,Sweden,False,8/23/2019
+,Amherst,Massachusetts,United States of America,,2/3/2020
+,Bristol,Bristol,United Kingdom,False,2/16/2020
+,Berlin,New York,USA,False,2/18/2020
+,Porto,Porto,Portugal,False,2/18/2020
+,Guimaraes,,Portugal,False,2/18/2020
+,Nespereira,,Portugal,False,2/18/2020
+,Nazaré,,Portugal,False,2/20/2020
+Parque Natural da Arrábida,Sesimbra,,Portugal,False,2/20/2020
+,Setúbal,Lisboa,Portugal,False,2/21/2020
+,Faro,Faro,Portugal,False,2/21/2020
+,Lisbon,Lisboa,Portugal,False,2/21/2020
+,Amherst,Massachusetts,United States of America,,7/23/2020
+,Northfield,Minnesota,United States of America,,5/14/2022
+,St. Paul,Minnesota,United States of America,True,5/15/2022
+,Rochester,New York,United States of America,True,6/25/2022
+,Albany,New York,,,6/26/2022
+,Pittsfield,Massachusetts,United States of America,,7/27/2022
+,Morristown,New Jersey,United States of America,True,10/22/2022
+,Boston,Massachusetts,United States of America,False,
+,Pittsfield,Massachusetts,United States of America,True,
+,Amsterdam,Noord-Holland,Netherlands,False,
+,Minneapolis,Minnesota,United States of America,True,
